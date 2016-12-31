@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2493px" height="391px" viewBox="0 0 2493 391" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Obvious-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M195.98642,188.841746 L214.471504,200.627946 C220.153505,204.250824 219.71046,208.589782 213.489296,210.317237 L134.007233,232.387337 L181.968266,197.764532 L163.871596,186.225985 C158.191007,182.604008 158.627711,178.267857 164.857476,176.538014 L240.657139,155.49042 L195.98642,188.841746 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Obvious-logo" transform="translate(0.000000, -174.548775)">
+            <g id="S_logo_4" transform="translate(0.000000, 175.016548)">
+                <path d="M190.039017,389.715786 C294.74978,389.715786 379.634625,302.563837 379.634625,195.05646 C379.634625,87.5490829 294.74978,0.397134003 190.039017,0.397134003 C85.3282545,0.397134003 0.44340942,87.5490829 0.44340942,195.05646 C0.44340942,302.563837 85.3282545,389.715786 190.039017,389.715786 Z" id="Combined-Shape" fill="#000000"></path>
+                <g id="Combined-Shape" transform="translate(187.332186, 193.938879) rotate(-29.000000) translate(-187.332186, -193.938879) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <text id="BVIOUS" font-family="Arial-Black, Arial Black" font-size="500" font-weight="700" letter-spacing="-6.96000004" fill="#000000">
+                <tspan x="380" y="550.791794">BVIOUS</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
