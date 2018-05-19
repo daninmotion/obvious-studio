@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3855px" height="918px" viewBox="0 0 3855 918" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>OBVIO logo-ver1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iterations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(-339.000000, -1409.000000)">
+            <g id="OBVIO-logo-ver1" transform="translate(339.000000, 1218.000000)">
+                <text id="BVIO" font-family="FreightSansBlack, FreightSans" font-size="1300" font-weight="700" letter-spacing="-26" fill="#000000">
+                    <tspan x="900" y="1040">BVI</tspan>
+                    <tspan x="2939.7" y="1040" letter-spacing="-28.16667">O</tspan>
+                </text>
+                <g id="Lightning-shapes" transform="translate(0.000000, 191.000000)">
+                    <g id="Lightning-element" transform="translate(0.026456, 0.295258)">
+                        <ellipse id="Circle" fill="#000000" cx="446.594604" cy="458.676185" rx="446.594604" ry="458.676185"></ellipse>
+                        <path d="M345.495364,477.594556 L280,477.600699 L280,219 L632.134712,219 L447.976776,470.419626 L534.09877,470.419626 L345.495364,699.052743 L345.495364,477.594556 Z" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
